@@ -1,0 +1,18 @@
+# Compilados de Java (Bytecode)
+*.class
+
+# Carpetas de salida de Eclipse
+bin/
+build/
+
+# Archivos de configuración de Eclipse (opcional)
+# Algunos prefieren subirlos, pero lo ideal es que cada uno configure su IDE
+.settings/
+.metadata/
+.project
+.classpath
+
+# Archivos temporales y de sistema
+*.log
+.DS_Store
+Thumbs.db
